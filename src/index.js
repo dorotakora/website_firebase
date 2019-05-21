@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import './resources/css/app.css';
 import Routes from './Routes';
 
 const App = () => {
     return(
-        <BrowserRouter>
+        <HashRouter basename={process.env.PUBLIC_URL}>
             <Routes/>
-        </BrowserRouter>
+        </HashRouter>
     )
 };
 
