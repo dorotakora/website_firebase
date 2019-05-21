@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/website_firebase/static/css/main.476d91e1.chunk.css",
+    "main.js": "/website_firebase/static/js/main.fd0b5333.chunk.js",
+    "main.js.map": "/website_firebase/static/js/main.fd0b5333.chunk.js.map",
+    "runtime~main.js": "/website_firebase/static/js/runtime~main.78f931d6.js",
+    "runtime~main.js.map": "/website_firebase/static/js/runtime~main.78f931d6.js.map",
+    "static/js/2.2b1d1478.chunk.js": "/website_firebase/static/js/2.2b1d1478.chunk.js",
+    "static/js/2.2b1d1478.chunk.js.map": "/website_firebase/static/js/2.2b1d1478.chunk.js.map",
+    "index.html": "/website_firebase/index.html",
+    "precache-manifest.7c1e9e651c96ae8b4c380a148132b49c.js": "/website_firebase/precache-manifest.7c1e9e651c96ae8b4c380a148132b49c.js",
+    "service-worker.js": "/website_firebase/service-worker.js",
+    "static/css/main.476d91e1.chunk.css.map": "/website_firebase/static/css/main.476d91e1.chunk.css.map",
+    "static/media/Otamendi.png": "/website_firebase/static/media/Otamendi.5432bcd5.png",
+    "static/media/featured_player.png": "/website_firebase/static/media/featured_player.6de3706a.png",
+    "static/media/manchester_city_logo.png": "/website_firebase/static/media/manchester_city_logo.1d5b64ec.png"
+  }
+}
