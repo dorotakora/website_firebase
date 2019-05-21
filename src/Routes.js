@@ -1,12 +1,16 @@
 import React from 'react';
+import Layout from "./Hoc/Layout";
+import { Switch, Route } from 'react-router-dom';
+import Home from './components/Home/Index';
 
-
-const App = (props) => {
+const Routes = (props) => {
   return (
-    <div>
-     Hello
-    </div>
+    <Layout>
+        <Switch>
+            <Route component={Home}  exact path={'/'}/>
+        </Switch>
+    </Layout>
   );
 };
 
-export default App;
+export default Routes;
