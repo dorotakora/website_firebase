@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "461e5199fff7b98f0cfd0d41bd973d2e",
+    "revision": "ebf78734d16733f7732e47b8e054707b",
     "url": "/website_firebase/index.html"
   },
   {
-    "revision": "43963962e1d08919df92",
+    "revision": "5ae2ddc2a6613998a5a2",
     "url": "/website_firebase/static/css/main.476d91e1.chunk.css"
   },
   {
-    "revision": "8fe1dcf58c251f075a3d",
-    "url": "/website_firebase/static/js/2.3b5cf39c.chunk.js"
+    "revision": "ebe83a7765c18d2fa7ce",
+    "url": "/website_firebase/static/js/2.07fe0bf0.chunk.js"
   },
   {
-    "revision": "43963962e1d08919df92",
-    "url": "/website_firebase/static/js/main.bb471a3a.chunk.js"
+    "revision": "5ae2ddc2a6613998a5a2",
+    "url": "/website_firebase/static/js/main.7d9916d1.chunk.js"
   },
   {
     "revision": "aae8bf2209a2827aed75",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6de3706ade22bf1989b3853dda736986",
     "url": "/website_firebase/static/media/featured_player.6de3706a.png"
+  },
+  {
+    "revision": "dd26db2771a362bbd922fa4686b5218a",
+    "url": "/website_firebase/static/media/jersey.dd26db27.jpg"
   },
   {
     "revision": "1d5b64ec5f8fe8089fd9370edd244ac4",
