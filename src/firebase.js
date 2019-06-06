@@ -2,14 +2,16 @@ import firebase from 'firebase/app'
 import 'firebase/app'
 import 'firebase/database'
 import 'firebase/auth'
+import 'firebase/storage'
 
-const config = {
-    apiKey: "AIzaSyDYiC4o4i1r3Hge4sdXEalB10KQ9rIWyQ0",
-    authDomain: "m-city-7874a.firebaseapp.com",
-    databaseURL: "https://m-city-7874a.firebaseio.com",
-    projectId: "m-city-7874a",
-    storageBucket: "m-city-7874a.appspot.com",
-    messagingSenderId: "669950819399"
+var config = {
+    apiKey: "AIzaSyCgoGov7nSd1CIcbtg3IDgWDnvxRcp9S4k",
+    authDomain: "website-firebase-192f6.firebaseapp.com",
+    databaseURL: "https://website-firebase-192f6.firebaseio.com",
+    projectId: "website-firebase-192f6",
+    storageBucket: "website-firebase-192f6.appspot.com",
+    messagingSenderId: "984913669112",
+    appId: "1:984913669112:web:7772dbd1a6ef7f2c"
 };
 
 firebase.initializeApp(config);
@@ -17,9 +19,14 @@ firebase.initializeApp(config);
 const firebaseDB = firebase.database();
 const firebaseMatches = firebaseDB.ref('matches');
 const firebasePromotions = firebaseDB.ref('promotions');
+const firebaseTeams = firebaseDB.ref('teams');
+const firebasePlayers = firebaseDB.ref('players');
 
 export {
     firebase,
     firebaseMatches,
-    firebasePromotions
+    firebasePromotions,
+    firebaseTeams,
+    firebaseDB,
+    firebasePlayers
 }
