@@ -2,116 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1075a9e-653e-4645-a305-92007a397e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dorotakora.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/falubazg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/fogo_unia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/forBET.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/getWell.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/gkm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/motor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/sparta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team_icons/stalgw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header_footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header_footer/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/admin/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/home/featured/Text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/home/matches/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/the Matches/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/the Matches/matchesList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/the Matches/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ui/fileuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ui/formFields.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ui/icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ui/matches_block.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/images/icon_rider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/images/logos/ekstraliga_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/images/logos/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.rules.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/arsenal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/bournemouth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/brighton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/burnley.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/cardiff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/chelsea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/crystal_palace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/everton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/fulham.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/huddersfield.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/leicester.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/liverpool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/manchesr_united.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/manchester_city.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/newcastle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/southampton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/tottenham.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/watford.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/west_ham.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/team_icons/wolverhampton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hoc/AdminLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hoc/AdminLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hoc/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hoc/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Admin/Dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Admin/matches/addEditMatch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Admin/matches/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/matches/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Admin/nav/AdminNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AuthRoutes/PrivateRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/authRoutes/privateRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AuthRoutes/publicRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/authRoutes/publicRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header_Footer/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header_Footer/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Featured/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/home/featured/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Featured/Stripes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/home/featured/Stripes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Featured/Text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Matches/Blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/home/matches/Blocks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Matches/Index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/MeetPlayers/Cards.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/MeetPlayers/Index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Promotion/Animation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Promotion/Enroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Promotion/Index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignIn/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/signin/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ui/FormFields.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ui/Icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ui/Matches_block.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ui/Misc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/misc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ui/PlayerCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/featured_player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/jersey.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/logos/manchester_city_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/Otamendi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/images/players/Otamendi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/Raheem Sterling col.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/images/players/Raheem Sterling col.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/Vincent Kompany col.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/images/players/Vincent Kompany col.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/aymeric_laporte.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/benjamin_mendy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/danilo_brabosa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/john_stones.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/nicolas_otamendi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/tosin_adarabioyo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/DEF/vincent_kompany.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/KEEP/claudio_bravo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/KEEP/ederson_morales.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/bernardo_silva.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/brahim_diaz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/fabian_delph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/fernandinho_luiz_roza.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/illkay_gundogan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/kevin_de_bruyne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/leroy_sane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/MIDF/raheem_sterling.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/STRIK/gabriel_jesus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/STRIK/lukas_nmecha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/players/player_to_upload/STRIK/sergio_aguero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/stripes.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/images/stripes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/admin/matches/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/matches/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/formFields.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/formFields.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/misc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/misc.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -123,21 +21,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="169" column="41" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-                <element signature="e#365#4948#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-840">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/public/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -159,9 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Ui/PlayerCard.html" />
-        <option value="$PROJECT_DIR$/src/components/Ui/PlayerCard.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/MeetPlayers/Cards.js" />
         <option value="$PROJECT_DIR$/src/components/Home/MeetPlayers/Index.js" />
         <option value="$PROJECT_DIR$/src/components/Header_Footer/Header.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Index.js" />
@@ -203,13 +111,16 @@
         <option value="$PROJECT_DIR$/src/Components/Header_footer/Header.js" />
         <option value="$PROJECT_DIR$/src/Resources/css/app.css" />
         <option value="$PROJECT_DIR$/src/Components/home/matches/Blocks.js" />
-        <option value="$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js" />
         <option value="$PROJECT_DIR$/src/routes.js" />
         <option value="$PROJECT_DIR$/src/Components/the Matches/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/admin/matches/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/ui/misc.js" />
         <option value="$PROJECT_DIR$/src/Components/the Matches/matchesList.js" />
+        <option value="$PROJECT_DIR$/src/Components/ui/misc.js" />
+        <option value="$PROJECT_DIR$/src/Components/admin/matches/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js" />
+        <option value="$PROJECT_DIR$/src/Components/ui/formFields.js" />
         <option value="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" />
+        <option value="$PROJECT_DIR$/firebase.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -223,13 +134,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="website_firebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="website_firebase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website_firebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_firebase" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website_firebase" type="b2602c69:ProjectViewProjectNode" />
@@ -334,10 +249,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Hoc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="website_firebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_firebase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website_firebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_firebase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,13 +375,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130962000" />
+    <option name="totallyTimeSpent" value="139982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2337" height="1565" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12618841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12618841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -466,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.123066105" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5035162" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498904" />
@@ -486,7 +414,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.123066105" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5035162" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498904" />
@@ -496,56 +424,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Featured/Stripes.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/Ui/FormFields.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/SignIn/Index.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Admin/players/index.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Admin/matches/index.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Admin/nav/AdminNav.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Admin/matches/addEditMatch.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Admin/players/addEditPlayers.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Ui/fileuploader.js" />
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/players/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/players/addEditPlayers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3640">
-          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/players/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/players/addEditPlayers.js" />
     <entry file="file://$PROJECT_DIR$/public/images/team_icons/watford.png" />
-    <entry file="file://$PROJECT_DIR$/src/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Resources/images/jersey.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/images/jersey.jpg" />
     <entry file="file://$PROJECT_DIR$/src/Components/theTeam/index.js" />
     <entry file="file://$PROJECT_DIR$/src/Resources/images/featured_player.png" />
     <entry file="file://$PROJECT_DIR$/src/Resources/images/stripes.png">
@@ -560,11 +448,6 @@
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ui/formFields.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/ui/icons.js">
@@ -638,33 +521,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/Enroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/Enroll.js" />
+    <entry file="file://$PROJECT_DIR$/src/Components/home/promotion/Animation.js" />
     <entry file="file://$PROJECT_DIR$/src/Components/home/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -675,32 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ui/not_found.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/signin/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/Dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ui/not_found.js" />
     <entry file="file://$PROJECT_DIR$/src/Hoc/Layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -712,16 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -761,36 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ui/misc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/the Matches/matchesList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="937">
-          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/home/matches/Blocks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -818,14 +612,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/signin/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="169" column="41" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="41" />
+        <state relative-caret-position="878">
+          <caret line="118" column="90" selection-start-line="118" selection-start-column="90" selection-end-line="118" selection-end-column="90" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#365#4948#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/the Matches/matchesList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1742">
+          <caret line="71" column="51" lean-forward="true" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ui/misc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ui/formFields.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firebase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/nav/AdminNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
         </state>
       </provider>
     </entry>

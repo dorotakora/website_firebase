@@ -39,7 +39,12 @@ export const firebaseLooper = (snapshot) => {
 }
 
 export const reverseArray = (actualArray) => {
-    return actualArray.sort((a,b) => (b.date > a.date) ? 1 : (a.date === b.date) ? ((b.round > a.round) ? 1 : -1) : -1 );
+    let reversedArray = [];
+
+    for(let i= actualArray.length-1;i>=0;i--){
+        reversedArray.push(actualArray[i])
+    }
+    return reversedArray.sort((a,b) => (b.date > a.date) ? 1 : (a.date === b.date) ? ((b.round > a.round) ? 1 : -1) : -1 );
 };
 
 

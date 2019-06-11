@@ -4,11 +4,11 @@ const FormField = ({formdata,id,change}) => {
 
     const showError = () => {
         let errorMessage = <div className="error_label">
-                {
-                    formdata.validation && !formdata.valid ?
-                        formdata.validationMessage
+            {
+                formdata.validation && !formdata.valid ?
+                    formdata.validationMessage
                     :null
-                }
+            }
         </div>
         return errorMessage
     }
@@ -17,6 +17,7 @@ const FormField = ({formdata,id,change}) => {
 
     const renderTemplate = () => {
         let formTemplate = null;
+        console.log(formdata.showlabel + '    aaaaaaa');
 
         switch(formdata.element){
             case('input'):
@@ -36,7 +37,7 @@ const FormField = ({formdata,id,change}) => {
                         { showError() }
                     </div>
                 )
-            break;
+                break;
             case('select'):
                 formTemplate = (
                     <div>
@@ -50,19 +51,19 @@ const FormField = ({formdata,id,change}) => {
                             value={formdata.value}
                             onChange={(event)=> change({event,id})}
                         >
-                            <option value="">Select one</option>
+                            <option value="">Wybierz drużynę</option>
                             {
                                 formdata.config.options.map((item)=>(
-                                   <option key={item.key} value={item.key}>
+                                    <option key={item.key} value={item.key}>
                                         {item.value}
-                                   </option> 
+                                    </option>
                                 ))
                             }
                         </select>
                         { showError() }
                     </div>
                 )
-            break;
+                break;
             default:
                 formTemplate = null;
 

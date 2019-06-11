@@ -20,7 +20,7 @@ class AddEditMatch extends Component {
                 element:'input',
                 value:'',
                 config:{
-                    label: 'Event date',
+                    label: 'Data spotkania',
                     name:'date_input',
                     type: 'date'
                 },
@@ -97,8 +97,8 @@ class AddEditMatch extends Component {
                 element:'input',
                 value:'',
                 config:{
-                    label: 'Referee',
-                    name:'referee_input',
+                    label: 'Kolejka',
+                    name:'round_input',
                     type: 'text'
                 },
                 validation:{
@@ -112,7 +112,7 @@ class AddEditMatch extends Component {
                 element:'input',
                 value:'',
                 config:{
-                    label: 'Stadium',
+                    label: 'Stadion',
                     name:'stadium_input',
                     type: 'text'
                 },
@@ -148,12 +148,12 @@ class AddEditMatch extends Component {
                 element:'select',
                 value:'',
                 config:{
-                    label: 'Game played ?',
+                    label: 'Spotkanie zakończono?',
                     name:'select_played',
                     type: 'select',
                     options: [
-                        {key:'Yes',value:'Yes'},
-                        {key:'No',value:'No'}
+                        {key:'Tak',value:'Tak'},
+                        {key:'Nie',value:'Nie'}
                     ]
                 },
                 validation:{
@@ -172,7 +172,7 @@ class AddEditMatch extends Component {
 
         newElement.value = element.event.target.value;
 
-        let validData = validate(newElement)
+        let validData = validate(newElement);
         newElement.valid = validData[0];
         newElement.validationMessage = validData[1]
 
@@ -227,12 +227,12 @@ class AddEditMatch extends Component {
 
 
         if(!matchId){
-            getTeams(false, 'Add Match')
+            getTeams(false, 'Dodaj spotkanie')
         } else {
             firebaseDB.ref(`matches/${matchId}`).once('value')
                 .then((snapshot)=>{
                     const match = snapshot.val();
-                    getTeams(match, 'Edit Match')
+                    getTeams(match, 'Edytuj spotkanie')
                 })
         }
     }
@@ -272,7 +272,7 @@ class AddEditMatch extends Component {
 
 
         if(formIsValid){
-            if(this.state.formType === 'Edit Match'){
+            if(this.state.formType === 'Edytuj spotkanie'){
                 firebaseDB.ref(`matches/${this.state.matchId}`)
                     .update(dataToSubmit).then(()=>{
                     this.successForm('Updated correctly');
@@ -313,7 +313,7 @@ class AddEditMatch extends Component {
                             />
 
                             <div className="select_team_layout">
-                                <div className="label_inputs">Local</div>
+                                <div className="label_inputs">Gospodarze</div>
                                 <div className="wrapper">
                                     <div className="left">
                                         <FormField
@@ -333,7 +333,7 @@ class AddEditMatch extends Component {
                             </div>
 
                             <div className="select_team_layout">
-                                <div className="label_inputs">Away</div>
+                                <div className="label_inputs">Goście</div>
                                 <div className="wrapper">
                                     <div className="left">
                                         <FormField
@@ -384,7 +384,7 @@ class AddEditMatch extends Component {
                             <div className="success_label">{this.state.formSuccess}</div>
                             {this.state.formError ?
                                 <div className="error_label">
-                                    Something is wrong
+                                    Wprowadź wszystkie dane
                                 </div>
                                 : ''
                             }

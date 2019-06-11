@@ -8,11 +8,11 @@ const AdminNav = () => {
 
     const links = [
         {
-            title: 'Matches',
+            title: 'Spotkania',
             linkTo: '/admin_matches'
         },
         {
-            title: 'Add Match',
+            title: 'Dodaj spotkanie',
             linkTo: '/admin_matches/edit_match'
         }
     ]
@@ -47,7 +47,7 @@ const AdminNav = () => {
         <div>
             {renderItems()}
             <ListItem button style={style} onClick={()=> logoutHandler()}>
-                Log out
+                Wyloguj
             </ListItem>
         </div>
     );

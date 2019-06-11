@@ -41,10 +41,10 @@ class AdminMatches extends Component {
                         <Table>
                             <TableHead>
                                 <TableRow>
-                                    <TableCell>Date</TableCell>
-                                    <TableCell>Match</TableCell>
-                                    <TableCell>Result</TableCell>
-                                    <TableCell>Final</TableCell>
+                                    <TableCell>Data</TableCell>
+                                    <TableCell>Spotkanie</TableCell>
+                                    <TableCell>Wynik</TableCell>
+                                    <TableCell>Status</TableCell>
                                 </TableRow>
                             </TableHead>
                             <TableBody>
@@ -64,9 +64,9 @@ class AdminMatches extends Component {
                                             </TableCell>
                                             <TableCell>
                                                 { match.final === "Yes" ?
-                                                    <span className="matches_tag_red">Final</span>
+                                                    <span className="matches_tag_red">Zakończony</span>
                                                     :
-                                                    <span className="matches_tag_grenn">Not played yet</span>
+                                                    <span className="matches_tag_grenn">Odwołany</span>
                                                 }
                                             </TableCell>
                                         </TableRow>
