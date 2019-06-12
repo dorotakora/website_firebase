@@ -32,7 +32,7 @@ class Header extends Component {
                     </div>
 
                     <Link to="/the_matches">
-                        <Button color="inherit">Matches</Button>
+                        <Button color="inherit">Tabela spotkań</Button>
                     </Link>
 
                 </Toolbar>

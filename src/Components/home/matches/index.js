@@ -11,7 +11,7 @@ const MatchesHome = () => {
                     size="50px"
                     color="#ffffff"
                 >
-                    Matches
+                    Wyniki spotkań
                 </Tag>
 
                     <Blocks/>
@@ -23,7 +23,7 @@ const MatchesHome = () => {
                     link={true}
                     linkto="/the_matches"
                 >
-                    See more matches
+                   Zobacz więcej spotkań
                 </Tag>
 
             </div>

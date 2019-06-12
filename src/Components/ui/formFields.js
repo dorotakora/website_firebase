@@ -17,7 +17,6 @@ const FormField = ({formdata,id,change}) => {
 
     const renderTemplate = () => {
         let formTemplate = null;
-        console.log(formdata.showlabel + '    aaaaaaa');
 
         switch(formdata.element){
             case('input'):

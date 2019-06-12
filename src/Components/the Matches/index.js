@@ -61,45 +61,21 @@ class TheMatches extends Component {
                         <div className="match_filters">
                             <div className="match_filters_box">
                                 <div className="tag">
-                                    Show Match
+                                    Tabela spotkań
                                 </div>
                                 <div className="cont">
                                     <div className={`option ${state.playedFilter === 'All'?'active':''}`}
                                          onClick={()=> this.showPlayed('All')}
                                     >
-                                        All
+                                        Wszystkie
                                     </div>
                                     <div className={`option ${state.playedFilter === 'Yes'?'active':''}`}
                                          onClick={()=> this.showPlayed('Yes')}>
-                                        Played
+                                        Zakończone
                                     </div>
                                     <div className={`option ${state.playedFilter === 'No'?'active':''}`}
                                          onClick={()=> this.showPlayed('No')}>
-                                        Not played
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="match_filters_box">
-                                <div className="tag">
-                                    Result game
-                                </div>
-                                <div className="cont">
-                                    <div className={`option ${state.resultFilter === 'All'?'active':''}`}
-                                         onClick={()=> this.showResult('All')}
-                                    >
-                                        All
-                                    </div>
-                                    <div className={`option ${state.resultFilter === 'W'?'active':''}`}
-                                         onClick={()=> this.showResult('W')}>
-                                        W
-                                    </div>
-                                    <div className={`option ${state.resultFilter === 'L'?'active':''}`}
-                                         onClick={()=> this.showResult('L')}>
-                                        L
-                                    </div>
-                                    <div className={`option ${state.resultFilter === 'D'?'active':''}`}
-                                         onClick={()=> this.showResult('D')}>
-                                        D
+                                        Odwołane
                                     </div>
                                 </div>
                             </div>
