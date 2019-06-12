@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Screenshot
-![gitRead](https://github.com/dorotakora/website_firebase/raw/master/apiScreenShot.png)
+![website_firebase](https://github.com/dorotakora/website_firebase/raw/master/readme.png)
 
 
 ## Available Scripts

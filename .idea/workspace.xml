@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1075a9e-653e-4645-a305-92007a397e5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="168">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -197,16 +196,16 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/src/Resources/images/logos" />
       <recent name="$PROJECT_DIR$/src/Resources/images" />
       <recent name="$PROJECT_DIR$/src/Resources/images/players" />
-      <recent name="$PROJECT_DIR$/src/Resources/images/players/player_to_upload" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$/src/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,12 +283,12 @@
       <workItem from="1559720451735" duration="6465000" />
       <workItem from="1559740823514" duration="5062000" />
       <workItem from="1559804230519" duration="8626000" />
-      <workItem from="1560323317784" duration="5825000" />
+      <workItem from="1560323317784" duration="6084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149246000" />
+    <option name="totallyTimeSpent" value="149505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="136" y="14" width="2626" height="1560" extended-state="0" />
@@ -652,8 +651,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="168">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
