@@ -10,7 +10,8 @@ a {
 }
 
 .link_logo {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
     background-color: transparent;
     padding-top: 10px;
 }
@@ -142,20 +143,21 @@ button {
 /*=============================
             HEADER FOOTER
 ===============================*/
+header .link_logo {
+    display: inline-block;
+}
+
 
 footer {
     text-align: center;
     font-size: 16px;
     color: #ffffff;
     padding: 30px 0px;
+    width: auto;
 }
 
 footer .img_cover{
    margin:0 auto;
-}
-
-footer .footer_discl {
-    margin: 10px 0px;
 }
 
 
@@ -212,6 +214,38 @@ footer .footer_discl {
     padding: 0px 20px;
 }
 
+
+@media screen and (max-width: 768px) {
+    .featured_first {
+        transform: translate(0px,350px) !important;
+        font-size: 52px;
+    }
+    .featured_second {
+        transform: translate(0px,456px) !important;
+        font-size: 52px;
+    }
+    .featured_rider {
+        width: 300px;
+        height: 300px;
+        transform: translate(180px,270px) !important;
+    }
+    .featured_stripes .stripe {
+        width: 180px;
+    }
+    .featured_stripes .stripe:nth-of-type(1) {
+        transform: rotate(25deg) translate(-60px,-260px)!important;
+    }
+    .featured_stripes .stripe:nth-of-type(2) {
+        transform: rotate(25deg) translate(140px,-260px) !important;
+    }
+    .featured_stripes .stripe:nth-of-type(3) {
+        transform: rotate(25deg) translate(340px,-260px) !important;
+    }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+}
+
 /*=============================
             MATCHES HOME
 ===============================*/
@@ -237,6 +271,36 @@ footer .footer_discl {
     padding-right:30px;
 }
 
+@media screen and (max-width: 768px) {
+    .home_matches_wrapper .home_matches .item {
+        width: 60%;
+        margin: auto auto auto 15px;
+        font-size: 0.75rem;
+        justify-content: center;
+    }
+    .home_matches_wrapper .home_matches .item .wrapper {
+        width: 75%;
+        margin: auto;
+    }
+    .match_block .match_wrapper .match_top .left .icon,
+    .match_block .match_wrapper .match_bottom .left .icon {
+        display: none;
+    }
+    .match_block .match_wrapper .match_top .left .team_name,
+    .match_block .match_wrapper .match_bottom .right {
+        font-size: 0.75rem;
+    }
+    .home_matches_wrapper .home_matches {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .home_matches_wrapper .home_matches .item {
+        width: 70%;
+        margin: 35px auto;
+    }
+}
 
 /*=============================
             MATCHES BLOCK
@@ -386,34 +450,6 @@ td {
 .match_filters .cont {
     display: flex;
 }
-
-
-/*=============================
-            MATCHES BLOCK
-===============================*/
-
-
-.home_meetplayers { 
-    background: #ffffff;
-}
-
-.home_meetplayers_wrapper {
-    padding-bottom: 100px;
-    min-height: 600px;
-}
-
-.home_meetplayers .home_card_wrapper {
-    position: relative;
-    float: left;
-    width: 630px;
-    min-height: 600px;
-}
-
-.home_meetplayers .home_text_wrapper {
-    float: right;
-    width: 390px;
-}
-
 
 /*=============================
          THE MATCHES

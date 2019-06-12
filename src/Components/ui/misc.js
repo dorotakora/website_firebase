@@ -50,6 +50,12 @@ export const reverseArray = (actualArray) => {
 
 export const validate = (element) => {
     let error = [true,''];
+console.log(element);
+    if(element.validation.required){
+        const valid = element.value.trim() !== '';
+        const message = `${!valid ? 'This field is required':''}`;
+        error = !valid ? [valid,message]: error;
+    }
 
     if(element.validation.email){
         const valid = /\S+@\S+\.\S+/.test(element.value);
@@ -57,11 +63,6 @@ export const validate = (element) => {
         error = !valid ? [valid,message]: error;
     }
 
-    if(element.validation.required){
-        const valid = element.value.trim() !== '';
-        const message = `${!valid ? 'This field is required':''}`;
-        error = !valid ? [valid,message]: error;
-    }
 
     return error;
 }
