@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1075a9e-653e-4645-a305-92007a397e5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header_footer/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header_footer/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/admin/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/Dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/home/matches/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/home/matches/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/the Matches/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/the Matches/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ui/formFields.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/formFields.js" afterDir="false" />
-    </list>
+    <list default="true" id="c1075a9e-653e-4645-a305-92007a397e5e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -57,7 +49,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="802">
+                    <state relative-caret-position="-1802">
                       <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
                       <folding>
                         <element signature="e#0#41#0" expanded="true" />
@@ -326,18 +318,17 @@
       <workItem from="1559720451735" duration="6465000" />
       <workItem from="1559740823514" duration="5062000" />
       <workItem from="1559804230519" duration="8626000" />
-      <workItem from="1560323317784" duration="2841000" />
+      <workItem from="1560323317784" duration="3219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146262000" />
+    <option name="totallyTimeSpent" value="146640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="5" width="2472" height="1560" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11923234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11923234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -351,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3288638" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3288638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498904" />
@@ -684,7 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/admin/matches/addEditMatch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
+        <state relative-caret-position="-1802">
           <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
