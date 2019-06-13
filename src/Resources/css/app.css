@@ -291,7 +291,7 @@ footer .img_cover{
         height: 480px;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 451px) and (max-width: 600px) {
     .featured_first {
         transform: translate(100px, 290px) !important;
         font-size: 36px;
@@ -328,6 +328,43 @@ footer .img_cover{
         height: 380px;
     }
 }
+@media screen and (max-width: 450px) {
+    .featured_first {
+        transform: translate(50px, 290px) !important;
+        font-size: 32px;
+    }
+
+    .featured_second {
+        transform: translate(50px, 342px) !important;
+        font-size: 32px;
+    }
+
+    .featured_rider {
+        width: 150px;
+        height: 150px;
+        transform: translate(185px, 244px) !important;
+    }
+
+    .featured_stripes .stripe {
+        width: 70px;
+    }
+
+    .featured_stripes .stripe:nth-of-type(1) {
+        transform: rotate(25deg) translate(-80px, -260px) !important;
+    }
+
+    .featured_stripes .stripe:nth-of-type(2) {
+        transform: rotate(25deg) translate(0px, -260px) !important;
+    }
+
+    .featured_stripes .stripe:nth-of-type(3) {
+        transform: rotate(25deg) translate(80px, -260px) !important
+    }
+
+    .featured_wrapper {
+        height: 380px;
+    }
+}
 /*=============================
             MATCHES HOME
 ===============================*/
@@ -353,10 +390,40 @@ footer .img_cover{
     padding-right:30px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 450px) {
     .home_matches_wrapper .home_matches .item {
-        width: 50%;
-        margin: auto auto auto 5px;
+        width: 65%;
+        margin: auto auto auto -15%;
+        font-size: 0.5rem;
+        justify-content: center;
+    }
+    .home_matches_wrapper .home_matches .item .wrapper {
+        width: 45%;
+        margin: auto;
+    }
+    .match_block .match_wrapper .match_top .left .icon,
+    .match_block .match_wrapper .match_bottom .left .icon {
+        display: none;
+    }
+    .match_block .match_wrapper .match_top .team_name,
+    .match_block .match_wrapper .match_bottom .team_name,
+    .match_block .match_wrapper .match_top .right,
+    .match_block .match_wrapper .match_bottom .right {
+        font-size: 18px !important;
+    }
+    .home_matches_wrapper .home_matches {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .home_matches_wrapper .container > div {
+        font-size: 26px !important;
+    }
+}
+
+@media screen and (min-width: 451px)  and (max-width: 600px) {
+    .home_matches_wrapper .home_matches .item {
+        width: 60%;
+        margin: auto auto auto -4%;
         font-size: 0.5rem;
         justify-content: center;
     }
@@ -376,11 +443,13 @@ footer .img_cover{
     }
     .home_matches_wrapper .home_matches {
         margin-bottom: 20px;
+        display: block;
     }
     .home_matches_wrapper .container > div {
         font-size: 26px !important;
     }
 }
+
 
 @media screen and (min-width: 601px) and (max-width: 768px) {
     .home_matches_wrapper .home_matches .item {

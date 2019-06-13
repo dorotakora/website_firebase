@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c1075a9e-653e-4645-a305-92007a397e5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/css/app.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Resources/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="716">
-              <caret line="378" column="5" selection-start-line="378" selection-start-column="4" selection-end-line="378" selection-end-column="5" />
+            <state relative-caret-position="464">
+              <caret line="396" column="26" lean-forward="true" selection-start-line="396" selection-start-column="26" selection-end-line="396" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -319,12 +318,12 @@
       <workItem from="1559740823514" duration="5062000" />
       <workItem from="1559804230519" duration="8626000" />
       <workItem from="1560323317784" duration="25096000" />
-      <workItem from="1560410953664" duration="15650000" />
+      <workItem from="1560410953664" duration="18017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184167000" />
+    <option name="totallyTimeSpent" value="186534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="136" y="14" width="2450" height="1560" extended-state="0" />
@@ -691,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Resources/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="378" column="5" selection-start-line="378" selection-start-column="4" selection-end-line="378" selection-end-column="5" />
+        <state relative-caret-position="464">
+          <caret line="396" column="26" lean-forward="true" selection-start-line="396" selection-start-column="26" selection-end-line="396" selection-end-column="26" />
         </state>
       </provider>
     </entry>
